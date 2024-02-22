@@ -6,11 +6,8 @@ body {
     margin: 0;
 }
 
-table th {
-    text-align: center; 
- }
- 
- .table {
-    margin: auto;
-    width: 50% !important; 
- }
+.table {
+   text-align: center; 
+   margin: auto;
+   width: 50% !important; 
+}
